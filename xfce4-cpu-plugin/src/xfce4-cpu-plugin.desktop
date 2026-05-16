@@ -1,0 +1,10 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=CPU Monitor
+Comment=Monitor CPU usage and temperature
+Icon=indicator-sensors-cpu
+X-XFCE-Module=xfce4-cpu-plugin
+X-XFCE-Unique=TRUE
+X-XFCE-Internal=FALSE
+X-XFCE-API=2.0
