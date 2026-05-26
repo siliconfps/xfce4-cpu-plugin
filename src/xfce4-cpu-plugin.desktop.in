@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+
+Name=CPU Monitor
+Comment=Monitor CPU usage and temperature
+Icon=indicator-sensors-cpu
+
+X-XFCE-Module=@PLUGIN_PATH@/libxfce4-cpu-plugin.so
